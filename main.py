@@ -266,7 +266,7 @@ for level in range(1,6):
 hide_character()
 
 #user results
-if score>=5:
+if score >= 5:
     s.bgpic("successful.gif")  
 else:
     s.bgpic("notsuccessful.gif")
